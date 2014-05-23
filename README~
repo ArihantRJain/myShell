@@ -1,0 +1,16 @@
+Project : myShell
+
+Name : Arihant Jain
+
+Description : 
+myShell is an implementation of the Unix Shell. The commands implemented for the project are cd, cp ,ln ,mv ,head ,touch ,mkdir ,rmdir ,uname ,file ,tail ,ls ,cat ,pwd ,rm ,bc ,grep ,date ,time and wc. 
+
+Execution : 
+$ gcc myShell.c
+pathname> command <options> <filename>
+Example
+pathname> ls .
+pathname> cd directoryname
+pathname> rm filename
+pathname> rmdir directoryname
+Similarly other commands can be executed.
